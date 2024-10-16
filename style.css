@@ -1,0 +1,14 @@
+.week-button {
+    margin: 10px;
+    padding: 20px;
+  }
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  #scheduleImage {
+    width: 100%;
+    max-width: 600px; 
+    margin-top: 20px;
+    display: none;
+  }
